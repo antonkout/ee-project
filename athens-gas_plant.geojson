@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "athens-gas_plant",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Wiki URL": "https://www.gem.wiki/Agios_Georgios_power_station", "Country": "Greece", "Plant name": "Agios Georgios power station", "Plant na_1": null, "Unit name": "9", "Fuel": "NG", "Capacity e": "200", "Status": "operating", "Technology": "ST", "CHP": "not found", "Hydrogen c": null, "CCS attach": null, "Coal-to-ga": null, "Start year": "1971", "Retired ye": null, "Planned re": null, "Operator": null, "Owner": "Public Power Corporation S.A. [100%]", "Parent": "Public Power Corporation S.A. [100%]", "Latitude": 37.95429, "Longitude": 23.61023, "Location a": "exact", "Subregion": "Southern Europe", "Region": "Europe", "Previous R": "European Union", "City": "Keratsini", "Local area": null, "Major area": null, "Subnationa": "Piraeus", "Other IDs": { "WRI": "WRI1061107" }, "Other ID_1": null, "Other plan": null, "Captive [h": null, "Captive in": null, "Captive no": null, "GEM locati": "L407680", "GEM unit I": "G410038" }, "geometry": { "type": "Point", "coordinates": [ 23.61023, 37.95429 ] } }
+]
+}
