@@ -7,10 +7,11 @@ license = "Copyright 2024 AntonKout, all rights reserved."
 
 [tool.poetry.dependencies]
 python = "^3.8"
-fiona = "1.8.22"
-folium = "0.14.0"
-pathlib = "*"
+matplotlib = "3.7.1"
+shapely = "2.0.1"
+pandas = "2.0.3"
 earthengine-api = "0.1.386"
+seaborn = "0.13.1"
 
 
 [tool.pytest.ini_options]
